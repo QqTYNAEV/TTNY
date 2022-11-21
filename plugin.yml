@@ -1,0 +1,12 @@
+name: Timer_to_NewYear
+version: 1.0
+main: TipoYanvar\Holiday
+api: 3.0.0
+author: qq_BCEM
+website: talk.24serv.pro/u/qq_bcem
+
+commands:
+  timer-ny:
+    permission: ttny.use
+    default: false
+    description: "Обратный отсчет до нового года"
